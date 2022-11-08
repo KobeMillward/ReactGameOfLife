@@ -9,3 +9,9 @@
     height: 10px;
     background-color: black;
 }
+
+.cellSurvive {
+    width: 10px;
+    height: 10px;
+    background-color: grey;
+}
