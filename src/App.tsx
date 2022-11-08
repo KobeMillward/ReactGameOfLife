@@ -7,7 +7,7 @@ class App extends Component {
     render() {
         return (
             <div className="App">
-                <GameOfLife width={30} height={10} />
+                <GameOfLife width={30} height={30} />
             </div>
         );
     }
